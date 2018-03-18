@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">IL TRIS</string>
+    <string name="title_activity_game" translatable="false">IL TRIS</string>
+
+    <!-- Activity Main -->
+    <string name="benvenuto">BENVENUTO NEL GIOCO DEL TRIS</string>
+    <string name="nome">Inserisci il tuo nome</string>
+    <string name="gioco_guess">GIOCA</string>
+    <string name="come_giocare">Scegli il tuo simbolo</string>
+    <string name="x" translatable="false">X</string>
+    <string name="o" translatable="false">O</string>
+    <string name="modalità">Scegli la modalità</string>
+    <string name="single">Gioco singolo</string>
+    <string name="multi">Multigiocatore</string>
+    <string name="error">Devi selezionare un simbolo e il nome e la modalità di gioco!</string>
+
+    <!-- Activity Game -->
+    <string name="title_activity_tris" translatable="false">Activity_tris</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Account</string>
+    <string name="titolo">GIOCHIAMO!</string>
+    <string name="utente_gioco">Benvenuto </string>
+    <string name="first">Scegli la cella in cui inserire il tuo segno</string>
+    <string name="error_game">Non puoi inserire il tuo simbolo qui.</string>
+    <string name="finish">Non puoi più inserire il simbolo</string>
+    <string name="newGame">Nuova partita</string>
+    <string name="button_new">Premi il bottone per iniziare una nuova partita!</string>
+    <string name="vinto">   ha vintooo!</string>
+    <string name="ospite_giocatore">Ospite</string>
+
+</resources>

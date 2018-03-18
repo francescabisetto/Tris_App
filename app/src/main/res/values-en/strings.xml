@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IL TRIS</string>
+    <string name="benvenuto">WELCOME TO THE GAME OF THE TRIS</string>
+    <string name="nome">"Insert your name "</string>
+    <string name="gioco_guess">PLAY</string>
+    <string name="come_giocare">Choose your symbol</string>
+    <string name="modalità">Choose the mode</string>
+    <string name="error">You must select a symbol and the name and mode of play!</string>
+    <string name="single">Single player</string>
+    <string name="multi">Multiplayer</string>
+    <string name="titolo">"LET'S PLAY! "</string>
+    <string name="utente_gioco">Welcome</string>
+    <string name="first">Choose the cell where you want to insert your sign</string>
+    <string name="error_game">You can\'t insert your symbol here.</string>
+    <string name="finish">You can\'t longer enter the symbol</string>
+    <string name="newGame">New game</string>
+    <string name="button_new">Press the button to start a new game!</string>
+    <string name="vinto">"    wins!"</string>
+    <string name="ospite_giocatore">Guess</string>
+</resources>
