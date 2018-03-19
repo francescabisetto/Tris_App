@@ -68,8 +68,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="133dp"
-        android:layout_height="22dp"
+        android:layout_width="140dp"
+        android:layout_height="43dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -154,8 +154,8 @@
 
     <TextView
         android:id="@+id/textViewModalità"
-        android:layout_width="165dp"
-        android:layout_height="26dp"
+        android:layout_width="170dp"
+        android:layout_height="36dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -170,8 +170,8 @@
 
     <RadioGroup
         android:id="@+id/id_modalità"
-        android:layout_width="116dp"
-        android:layout_height="91dp"
+        android:layout_width="130dp"
+        android:layout_height="87dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -192,8 +192,8 @@
 
         <RadioButton
             android:id="@+id/radioButton_multi"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="138dp"
+            android:layout_height="43dp"
             android:layout_weight="1"
             android:text="@string/multi" />
     </RadioGroup>

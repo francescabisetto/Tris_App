@@ -206,7 +206,8 @@ public class Activity_game extends AppCompatActivity {
         if (!tris) {
             if (flag == 5) {
                 B.setText(simb);
-                info.setText( R.string.finish);
+                controllo();
+                if (!tris) info.setText( R.string.finish);
             } else {
                 text = B.getText().toString();
                 info.setText("");
